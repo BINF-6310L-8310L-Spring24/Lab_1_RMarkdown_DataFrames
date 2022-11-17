@@ -52,6 +52,7 @@ Conduct the following analyses
 2. Get the mean expression value for the individual "GSM5019819"
 3. Column "ID_REF" should be a factor, is it one? If not, convert it to a factor.
 4. How many levels does column ID_REF have? Print this in your document
+5. Set the row names to the values in ID_REF and then remove the ID_REF column
 
 
 ### Step 5
