@@ -59,7 +59,7 @@ Conduct the following analyses
 Create a new data chunk with a different name, then complete the following
 
 1. Create a subset of the data that contains only "GSM5019819" and "GSM5019820"
-2. Use the ```plot()``` function to create a graph of with your new dataset
+2. Use the ```plot()``` function to create a graph of your new dataset
 
 
 ### Step 6
