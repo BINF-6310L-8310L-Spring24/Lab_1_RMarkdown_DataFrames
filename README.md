@@ -16,7 +16,7 @@ R Markdown Cheat sheets
 Conduct the following steps and show me the final product
 
 ### Step 1
-Install R-Markdown
+Install R-Markdown in R-studio
 
 ```install.packages('rmarkdown')```
 
@@ -26,3 +26,7 @@ Optional - you can also create PDF files if you want but you need to install tin
 install.packages('tinytex')
 tinytex::install_tinytex()  # install TinyTeX
 ```
+
+### Step 2
+Create a new R-Markdown file
+
