@@ -51,7 +51,7 @@ Conduct the following analyses
 1. Count the number of NAs in the data
 2. Get the mean expression value for the individual "GSM5019819"
 3. Column "ID_REF" should be a factor, is it one? If not, convert it to a factor.
-4. How many levels does column ID_REF have? 
+4. How many levels does column ID_REF have? Print this in your document
 
 
 ### Step 5
@@ -59,7 +59,7 @@ Conduct the following analyses
 Create a new data chunk with a different name, then complete the following
 
 1. Create a subset of the data that contains only "GSM5019819" and "GSM5019820"
-2. Use the plot() function to create a graph of with your new dataset
+2. Use the ```plot()``` function to create a graph of with your new dataset
 
 
 ### Step 6
